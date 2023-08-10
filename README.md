@@ -25,7 +25,6 @@ This repository contains a Jupyter notebook that presents an exploratory data an
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Scikit-Learn
 - Matplotlib
 - Seaborn
 
